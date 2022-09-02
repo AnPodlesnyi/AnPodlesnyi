@@ -1,7 +1,8 @@
 <h1 align="center">Hello <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> I'm Andrii Podlesnyi</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F79100&background=FFFFFF00&width=435&lines=Front-end+developer)](https://git.io/typing-svg)
-<img align="right" width="300px" src="https://avatars.githubusercontent.com/u/97830289?s=400&u=80cf475ccd4b25d2912fb1b9b51476d22acc4588&v=4" alt="альтернативный текст">
+<img align="right" width="470px" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47wjg46phf1u5xdl5fco71e4n7x6zb5h284z8t8l25&rid=giphy.gif&ct=g" alt="альтернативный текст">
+
 
  :man_technologist: About Me:
  ---
